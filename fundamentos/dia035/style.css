@@ -1,0 +1,11 @@
+p {
+    display: inline;
+}
+
+a {
+    display: block;
+}
+
+.link2 {
+    display: inline-block;
+}
