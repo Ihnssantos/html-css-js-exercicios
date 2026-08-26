@@ -1,0 +1,19 @@
+h1 {
+    color: grey;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-family: Arial;
+    font-size: 20px;
+    margin: 20px;
+}
+
+a {
+    display: inline-block;
+    width: 85px;
+    height: 20px;
+    border: 2px dotted blue;
+}
