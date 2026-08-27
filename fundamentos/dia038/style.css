@@ -1,0 +1,22 @@
+h1 {
+    color: brown;
+    background-color: grey;
+    text-align: center;
+    font-size: 40px;
+}
+
+.primeiro {
+    font-family: Arial;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+#segundo {
+    margin: 20px;
+    width: 130px;
+    height: 80px;
+}
+
+a {
+    display: inline-block;
+}
