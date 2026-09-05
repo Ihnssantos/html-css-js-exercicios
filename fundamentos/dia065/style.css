@@ -1,0 +1,12 @@
+.caixa {
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+}
+
+@media (max-width: 600px) {
+    .caixa {
+        width: 200px;
+        background-color: red;
+    }
+}
