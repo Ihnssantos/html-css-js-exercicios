@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.card {
+    padding: 30px;
+    margin: 30px;
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.card:hover {
+    background-color: aquamarine;
+}
