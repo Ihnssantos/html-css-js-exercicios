@@ -1,0 +1,31 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 1px 2px 10px blue;
+}
+
+a {
+    text-decoration: none;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+a:hover {
+    background-color:slateblue;
+    box-shadow: 1px 2px 10px blue;
+}
+
+
+.outros {
+    background-color: aliceblue;
+    color: blue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 1px 2px 10px blue;
+}
