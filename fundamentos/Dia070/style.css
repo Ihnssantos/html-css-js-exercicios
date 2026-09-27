@@ -1,0 +1,57 @@
+body {
+    background-color:azure;
+}
+
+.cabecalho {
+    color: white;
+    text-shadow: 2px 4px 8px black;
+    background-color: azure;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px black;
+}
+
+.secao1 {
+    color: white;
+    text-shadow: 2px 4px 8px black;
+    background-color: azure;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px black;
+}
+
+.secao2 {
+    color: white;
+    text-shadow: 2px 4px 8px black;
+    background-color: azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px black;
+}
+
+.titulo2 {
+    text-align: center;
+}
+
+.rodape {
+    color: white;
+    text-shadow: 2px 4px 8px black;
+    background-color: azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 8px black;
+}
+
+.lista:hover {
+    color: black;
+}
